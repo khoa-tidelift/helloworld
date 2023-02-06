@@ -1,0 +1,27 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "hello world test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoa-tidelift/helloworld.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "test"
+  ],
+  "author": "khoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khoa-tidelift/helloworld/issues"
+  },
+  "homepage": "https://github.com/khoa-tidelift/helloworld#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
